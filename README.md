@@ -1,5 +1,4 @@
 # Crowdfunding_ETL_Analysis
-By: Sarah Arif, Kyle Keegan, David Schaffer
 # Introduction
 For this project, our group collaborated on building an ETL pipeline using Python and Pandas. After transforming the data, we created four CSV files  and utilized the CSV data to construct an Entity-Relationship Diagram (ERD) and a corresponding table schema. To ensure data integrity and accessibility, we uploaded the CSV data into a Postgres database, allowing for efficient querying and analysis. This project not only showcased our technical skills in data manipulation but also highlighted the importance of collaboration and effective data management practices within our team.
 

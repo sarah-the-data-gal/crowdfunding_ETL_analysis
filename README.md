@@ -21,6 +21,10 @@ For this project, our group collaborated on building an ETL pipeline using Pytho
 ![image](https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/assets/159848624/07ecab4b-be07-403e-b071-fcbca52ab037)
 
 
+# Database Schema 
+The csvs must be extracted in the following order: contacts, category, subcategory, and finally campaign. 
+
+Finally we verified that each table has the correct data by running a SELECT statement for each table. 
 
 # Crowdfunding Database 
 # ERD
@@ -28,7 +32,4 @@ First we sketched out this diagram to plot out how the DB schema should be writt
 ![Crowdfunding_Diagram](https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/assets/159952161/5ec45d28-eed1-4a90-8025-d9923789a734)
 
 
-# Database Schema 
-The csvs must be extracted in the following order: contacts, category, subcategory, and finally campaign. 
 
-Finally we verified that each table has the correct data by running a SELECT statement for each table. 

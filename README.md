@@ -27,7 +27,7 @@ For this project, our group collaborated on building an ETL pipeline using Pytho
 First we imported the CSVs in the following order: contacts, category, subcategory, and finally campaign. 
 
 # ERD
-We then sketched out this diagram to plot out how the DB schema should be written:
+We then sketched out this diagram to visually show how the databases are connected:
 ![Crowdfunding_Diagram](https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/assets/159952161/5ec45d28-eed1-4a90-8025-d9923789a734)
 
 

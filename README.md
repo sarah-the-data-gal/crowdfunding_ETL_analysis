@@ -4,13 +4,13 @@ For this project, our group collaborated on building an ETL pipeline using Pytho
 
 # Data Cleaning and Processing 
 1. Category DataFrame
-   https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Category%20DataFrame.png
+https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Category%20DataFrame.png
 2. Subcategory DataFrame
-   https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/SubCategory%20DataFrame.png
+https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/SubCategory%20DataFrame.png
 3. Campaign Dataframe
-   https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Contacts%20DataFrame.png
+https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Contacts%20DataFrame.png
 4. Contacts DataFrame (Using Pandas)
-   https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Campaign%20DataFrame.png
+https://github.com/sarah-the-data-gal/crowdfunding_ETL_analysis/blob/main/Images/Campaign%20DataFrame.png
 
 
 # Crowdfunding Database 
